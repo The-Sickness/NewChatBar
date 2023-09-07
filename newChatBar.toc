@@ -1,7 +1,7 @@
-## Interface: 100105
+## Interface: 100107
 ## Author: fromRasha
 ## Maintainer: Sharpedge_Gaming
-## Version: 0.09
+## Version: 1.0
 ## Title: |cfffe7b2cnewChatBar|r
 ## Notes: Button Bar for openning chat messages of each type.
 ## SavedVariablesPerCharacter: LCH_Point, LCH_Settings
