@@ -1,7 +1,7 @@
 -- newChatBar
 -- Made by: where_is_my_money_b1tch
 -- Maintained by: Sharpedge_Gaming
--- v1.0	 - 10.1.7
+-- v1.1	 - 10.2.5
 
 local myName, AddOn = ...
 local version = GetAddOnMetadata(myName, "Version")
