@@ -1,10 +1,10 @@
 -- newChatBar
 -- Made by: where_is_my_money_b1tch
 -- Maintained by: Sharpedge_Gaming
--- v1.1	 - 10.2.5
+-- v1.1	 - 11.0.2
 
 local myName, AddOn = ...
-local version = GetAddOnMetadata(myName, "Version")
+
 
 local frame = CreateFrame("Frame",nil,UIParent, BackdropTemplateMixin and "BackdropTemplate")
 local L=L4S[GetLocale()];
